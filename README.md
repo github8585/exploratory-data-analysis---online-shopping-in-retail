@@ -13,8 +13,8 @@ This project provides a comprehensive solution for managing customer data, analy
 ## Installation Instructions
 1. Clone the repository from GitHub.
 2. Ensure you have Python installed on your system.
-3. Install the required packages using `pip install -r requirements.txt`.
-4. Run the main application using `python main.py`.
+3. Install the required packages.
+4. Run the main application using `python db_utils.py`.
 
 ## Usage Instructions
 Navigate to the main dashboard to access the different modules. Each module has its own interface with relevant options for data input, analysis, and visualization.
