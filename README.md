@@ -1,43 +1,26 @@
-# exploratory-data-analysis---online-shopping-in-retail
-RDSDatabaseConnector
+1. Introduction
+This repository contains datasets and Python scripts pertaining to customer activity and related analytics. The datasets provide insights into customer behaviors, while the Python scripts offer utility functions, software logic, and analysis tools to further process and analyze the datasets.
 
-Table of Contents
-Description
-Installation
-Usage
-File Structure
-License
+2. Files and Descriptions
+CSV Data Files:
 
-Description
-The RDSDatabaseConnector project is a simple Python script that allows for the extraction of data from a PostgreSQL database, particularly an RDS instance. The aim of the project is to demonstrate how to use SQLAlchemy and Pandas to connect to a PostgreSQL database, fetch data, and save it to a CSV file. This project is an educational exercise in database connectivity, data extraction, and Python programming.
+customer_activity.csv: This is the primary dataset containing raw customer activity data.
+customer_activity_transformed.csv: Transformed version of the raw customer activity data, likely preprocessed for analysis.
+customer_activity_transformed_corrected_skew.csv: Further processed version of the transformed data with skewness corrections.
+Python Script Files:
 
-Installation
-Clone the repository to your local machine.
-Navigate to the project directory.
-Install the required Python packages if you haven't. You can install them using pip:
-pip install pandas sqlalchemy pyyaml
-Create a credentials.yaml file in the project directory and populate it with your PostgreSQL RDS instance credentials. The YAML file should have the following structure:
-RDS_HOST: 'your_host'
-RDS_PORT: 'your_port'
-RDS_DATABASE: 'your_database'
-RDS_USER: 'your_username'
-RDS_PASSWORD: 'your_password'
+customer_software.py: Contains main software logic related to customer activities.
+db_utils.py: Utility functions for database operations.
+marketing.py: Scripts related to marketing strategies and operations.
+performance_analysis.py: Analysis tools focused on evaluating the performance metrics.
+revenue.py: Contains functions and logic related to revenue calculations and analysis.
+3. Usage
+To utilize the datasets:
 
-Usage
-Open a terminal and navigate to the project directory.
-Run the script using Python:
-python db_utils.py
-Replace your_script_name.py with the actual name of the Python script.
-A CSV file named customer_activity.csv containing data from the customer_activity table in your PostgreSQL database will be generated in the project directory.
+Load the desired CSV file using appropriate data loading tools, such as Python's pandas library.
+Process and analyze the data as required.
+To utilize the Python scripts:
 
-File Structure
-RDSDatabaseConnector/
-|-- db_utils.py.py
-|-- credentials.yaml
-|-- README.md
-db_utils.py: The main Python script that contains the RDSDatabaseConnector class and related functions.
-credentials.yaml: YAML file containing the PostgreSQL RDS instance credentials.
-README.md: This README file.
-
-License
-This project is licensed under the MIT License. See the LICENSE.md file for details.
+Ensure all dependencies are installed.
+Import the desired functions or classes from the scripts.
+Use them in conjunction with the datasets or other relevant data.
