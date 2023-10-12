@@ -1,3 +1,5 @@
+EXPLORATORY DATA ANALYSIS
+
 1. Introduction
 This repository contains datasets and Python scripts pertaining to customer activity and related analytics. The datasets provide insights into customer behaviors, while the Python scripts offer utility functions, software logic, and analysis tools to further process and analyze the datasets.
 
