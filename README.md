@@ -1,8 +1,6 @@
 # Exploratory Data Analysis - Online Shopping in Retail
 
 ## Introduction
-![EDA](C:\Users\1925831\Pictures\Saved Pictures\Capture.PNG "Exploratory Data Analysis - Online Shopping in Retail")
-
 This repository contains datasets and Python scripts pertaining to customer activity and related analytics. The datasets provide insights into customer behaviors, while the Python scripts offer utility functions, software logic, and analysis tools to further process and analyze the datasets.
 
 ## Files and Descriptions
