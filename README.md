@@ -1,6 +1,7 @@
 # Exploratory Data Analysis - Online Shopping in Retail
 
 ## Introduction
+![Capture](https://github.com/github8585/exploratory-data-analysis---online-shopping-in-retail/assets/55400003/269d1373-144c-4047-bb07-f37a65132bd3)
 This repository contains datasets and Python scripts pertaining to customer activity and related analytics. The datasets provide insights into customer behaviors, while the Python scripts offer utility functions, software logic, and analysis tools to further process and analyze the datasets.
 
 ## Files and Descriptions
