@@ -18,9 +18,20 @@ This project provides a comprehensive solution for managing customer data, analy
 
 ### Installation Instructions
 1. Clone the repository from GitHub.
-2. Ensure you have Python installed on your system.
-3. Install the required packages.
-4. Run the main application using `python db_utils.py`.
+- `git clone https://github.com/github8585/exploratory-data-analysis---online-shopping-in-retail.git`
+3. Ensure you have Python installed on your system.
+- `Guidance : https://realpython.com/installing-python/`
+4. Install the required packages.
+- `psycopg2`
+- `sqlalchemy`
+- `pandas`
+- `yaml`
+- `matplotlib`
+- `seaborn`
+- `scipy`
+- `numpy`
+5. Run the main application using:
+- `python db_utils.py`.
 
 ### Usage Instructions
 Navigate to the main dashboard to access the different modules. Each module has its own interface with relevant options for data input, analysis, and visualization.
@@ -33,4 +44,3 @@ Navigate to the main dashboard to access the different modules. Each module has 
 
 ### License Information
 This project is licensed under the MIT License. You can use, modify, and distribute this code freely. For more details, refer to the LICENSE file in the repository.
-
