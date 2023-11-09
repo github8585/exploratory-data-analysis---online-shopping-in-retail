@@ -8,7 +8,7 @@ This repository contains datasets and Python scripts pertaining to customer acti
 
 ### CSV Data Files:
 - `customer_activity.csv`: This is the primary dataset containing raw customer activity data.
-- `customer_activity_transformed.csv`: Transformed version of the raw customer activity data, likely preprocessed for analysis.
+- `customer_activity_transformed.csv`: Transformed version of the raw customer activity data, preprocessed for analysis.
 - `customer_activity_transformed_corrected_skew.csv`: Further processed version of the transformed data with skewness corrections.
 
 ### Python Script Files:
