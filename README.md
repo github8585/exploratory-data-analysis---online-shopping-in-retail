@@ -19,11 +19,16 @@ The `RDSDatabaseConnector` project is a simple Python script that allows for the
 pip install pandas sqlalchemy pyyaml
 
 4. Create a `credentials.yaml` file in the project directory and populate it with your PostgreSQL RDS instance credentials. The YAML file should have the following structure:
--RDS_HOST: 'your_host'
--RDS_PORT: 'your_port'
--RDS_DATABASE: 'your_database'
--RDS_USER: 'your_username'
--RDS_PASSWORD: 'your_password'
+
+- `RDS_HOST: 'your_host'`
+  
+- `RDS_PORT: 'your_port'`
+  
+- `RDS_DATABASE: 'your_database'`
+  
+- `RDS_USER: 'your_username'`
+  
+- `RDS_PASSWORD: 'your_password'`
 
 Open a terminal and navigate to the project directory.
 
