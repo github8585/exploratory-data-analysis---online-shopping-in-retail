@@ -28,7 +28,8 @@ pip install pandas sqlalchemy pyyaml
 Open a terminal and navigate to the project directory.
 
 Run the script using Python:
-python db_utils.py
+
+- `python db_utils.py`
 
 A CSV file named customer_activity.csv containing data from the customer_activity table in your PostgreSQL database will be generated in the project directory.
 
