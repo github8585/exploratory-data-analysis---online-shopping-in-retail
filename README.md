@@ -5,9 +5,6 @@
 ### Table of Contents
 - [Description](#description)
 - [Installation](#installation)
-- [Usage](#usage)
-- [File Structure](#file-structure)
-- [License](#license)
 
 ### Description
 The `RDSDatabaseConnector` project is a simple Python script that allows for the extraction of data from a PostgreSQL database, particularly an RDS instance. The aim of the project is to demonstrate how to use SQLAlchemy and Pandas to connect to a PostgreSQL database, fetch data, and save it to a CSV file. This project is an educational exercise in database connectivity, data extraction, and Python programming.
