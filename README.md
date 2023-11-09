@@ -1,4 +1,4 @@
-# exploratory-data-analysis---online-shopping-in-retail
+# Exploratory-data-analysis---online-shopping-in-retail
 
 ## RDSDatabaseConnector
 
