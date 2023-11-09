@@ -1,11 +1,11 @@
 # exploratory-data-analysis---online-shopping-in-retail
 Analysis and Visualisation 
 Table of Contents
-1.	Project Description(#Project description)
-2.	Installation Instructions(#Installation Instructions)
-3.	Usage Instructions(#Usage Instructions)
+1.	Project Description(#project-description)
+2.	Installation Instructions(#installation-instructions)
+3.	Usage Instructions(#usage-instructions)
 4.	File Structure(#file-structure)
-5.	License Information(#license)
+5.	License Information(#license-information)
 
 ## Project Description
 This project provides a comprehensive solution for managing customer data, analyzing marketing strategies, evaluating performance metrics, and tracking revenue. The main goal is to offer businesses a unified platform for customer management. Through this project, I learned about data analytics, data visualization, and building scalable software solutions.
