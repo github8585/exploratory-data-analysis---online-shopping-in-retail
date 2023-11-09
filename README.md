@@ -1,32 +1,36 @@
 # Exploratory Data Analysis - Online Shopping in Retail
 
+## Analysis and Visualisation
+
 ## Introduction
 ![Capture](https://github.com/github8585/exploratory-data-analysis---online-shopping-in-retail/assets/55400003/269d1373-144c-4047-bb07-f37a65132bd3)
 This repository contains datasets and Python scripts pertaining to customer activity and related analytics. The datasets provide insights into customer behaviors, while the Python scripts offer utility functions, software logic, and analysis tools to further process and analyze the datasets.
 
-## Files and Descriptions
+### Table of Contents
+- [Project Description](#project-description)
+- [Installation Instructions](#installation-instructions)
+- [Usage Instructions](#usage-instructions)
+- [File Structure](#file-structure)
+- [License Information](#license-information)
 
-### CSV Data Files:
-- `customer_activity.csv`: This is the primary dataset containing raw customer activity data.
-- `customer_activity_transformed.csv`: Transformed version of the raw customer activity data, preprocessed for analysis.
-- `customer_activity_transformed_corrected_skew.csv`: Further processed version of the transformed data with skewness corrections.
+### Project Description
+This project provides a comprehensive solution for managing customer data, analyzing marketing strategies, evaluating performance metrics, and tracking revenue. The main goal is to offer businesses a unified platform for customer management. Through this project, I learned about data analytics, data visualization, and building scalable software solutions.
 
-### Python Script Files:
-- `customer_software.py`: Contains main software logic related to customer activities.
-- `db_utils.py`: Utility functions for database operations.
-- `marketing.py`: Scripts related to marketing strategies and operations.
-- `performance_analysis.py`: Analysis tools focused on evaluating the performance metrics.
-- `revenue.py`: Contains functions and logic related to revenue calculations and analysis.
+### Installation Instructions
+1. Clone the repository from GitHub.
+2. Ensure you have Python installed on your system.
+3. Install the required packages.
+4. Run the main application using `python db_utils.py`.
 
-## Usage
+### Usage Instructions
+Navigate to the main dashboard to access the different modules. Each module has its own interface with relevant options for data input, analysis, and visualization.
 
-To utilize the datasets:
+### File Structure
+- `customer_software.py`: Contains functions related to customer management.
+- `marketing.py`: Provides tools for analyzing marketing strategies.
+- `performance_analysis.py`: Offers metrics and visualization for performance analysis.
+- `revenue.py`: Tracks and analyzes revenue data.
 
-1. Load the desired CSV file using appropriate data loading tools, such as Python's pandas library.
-2. Process and analyze the data as required.
+### License Information
+This project is licensed under the MIT License. You can use, modify, and distribute this code freely. For more details, refer to the LICENSE file in the repository.
 
-To utilize the Python scripts:
-
-1. Ensure all dependencies are installed.
-2. Import the desired functions or classes from the scripts.
-3. Use them in conjunction with the datasets or other relevant data.
