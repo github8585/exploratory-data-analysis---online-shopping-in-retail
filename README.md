@@ -16,8 +16,7 @@ The `RDSDatabaseConnector` project is a simple Python script that allows for the
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Install the required Python packages if you haven't. You can install them using pip:
-
--pip install pandas sqlalchemy pyyaml
+pip install pandas sqlalchemy pyyaml
 
 4. Create a `credentials.yaml` file in the project directory and populate it with your PostgreSQL RDS instance credentials. The YAML file should have the following structure:
 -RDS_HOST: 'your_host'
@@ -29,7 +28,7 @@ The `RDSDatabaseConnector` project is a simple Python script that allows for the
 Open a terminal and navigate to the project directory.
 
 Run the script using Python:
--python db_utils.py
+python db_utils.py
 
 A CSV file named customer_activity.csv containing data from the customer_activity table in your PostgreSQL database will be generated in the project directory.
 
