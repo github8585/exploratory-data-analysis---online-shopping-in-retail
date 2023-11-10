@@ -3,7 +3,7 @@
 ## Analysis and Visualisation
 
 ## Introduction
-![Capture](https://github.com/github8585/exploratory-data-analysis---online-shopping-in-retail/assets/55400003/269d1373-144c-4047-bb07-f37a65132bd3)
+![Capture3](https://github.com/github8585/exploratory-data-analysis---online-shopping-in-retail/assets/55400003/74bccdbc-778e-4aa4-8578-04bba6ef5647)
 This repository contains datasets and Python scripts pertaining to customer activity and related analytics. The datasets provide insights into customer behaviors, while the Python scripts offer utility functions, software logic, and analysis tools to further process and analyze the datasets.
 
 ### Table of Contents
