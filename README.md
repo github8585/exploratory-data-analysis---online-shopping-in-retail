@@ -24,17 +24,17 @@ The `RDSDatabaseConnector` project is a simple Python script that allows for the
 
 5. Create a `credentials.yaml` file in the project directory and populate it with your PostgreSQL RDS instance credentials. The YAML file should have the following structure:
 ```bash
-- `RDS_HOST: 'your_host'`
-- `RDS_PORT: 'your_port'`
-- `RDS_DATABASE: 'your_database'`
-- `RDS_USER: 'your_username'` 
-- `RDS_PASSWORD: 'your_password'`
+RDS_HOST: 'your_host'
+RDS_PORT: 'your_port'
+RDS_DATABASE: 'your_database'
+RDS_USER: 'your_username'
+RDS_PASSWORD: 'your_password'
 
 Open a terminal and navigate to the project directory.
 
 Run the script using Python:
 ```bash
-- `python db_utils.py`
+python db_utils.py
 
 A CSV file named customer_activity.csv containing data from the customer_activity table in your PostgreSQL database will be generated in the project directory.
 
