@@ -43,6 +43,7 @@ Throughout this project, I learned about data cleaning techniques, working with 
 3. Clone the repository to your local machine.
 ```bash
 git clone https://github.com/yourusername/Exploratory-data-analysis---online-shopping-in-retail.git
+```
 
 ### Usage Instructions
 1. Make sure you have a `credentials.yaml` file with your PostgreSQL database credentials.
