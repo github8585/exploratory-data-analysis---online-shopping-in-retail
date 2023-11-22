@@ -29,12 +29,13 @@ RDS_PORT: 'your_port'
 RDS_DATABASE: 'your_database'
 RDS_USER: 'your_username'
 RDS_PASSWORD: 'your_password'
+```
 
 Open a terminal and navigate to the project directory.
-
 Run the script using Python:
 ```bash
 python db_utils.py
+```
 
 A CSV file named customer_activity.csv containing data from the customer_activity table in your PostgreSQL database will be generated in the project directory.
 
