@@ -11,16 +11,16 @@ The `RDSDatabaseConnector` project is a simple Python script that allows for the
 
 ### Installation
 1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/yourusername/RDSDatabaseConnector.git
+```bash
+git clone https://github.com/yourusername/RDSDatabaseConnector.git
    
 2. Navigate to the project directory.
-   ```bash
-   cd RDSDatabaseConnector
+```bash
+cd RDSDatabaseConnector
    
 3. Install the required Python packages if you haven't. You can install them using pip:
-   ```bash
-    pip install pandas sqlalchemy pyyaml
+```bash
+pip install pandas sqlalchemy pyyaml
 
 5. Create a `credentials.yaml` file in the project directory and populate it with your PostgreSQL RDS instance credentials. The YAML file should have the following structure:
 ```bash
