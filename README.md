@@ -35,6 +35,7 @@ Throughout this project, I learned about data cleaning techniques, working with 
 - `seaborn`
 - `scipy`
 - `numpy`
+
 ![image](https://github.com/github8585/exploratory-data-analysis---online-shopping-in-retail/assets/55400003/cbee06d6-ecdb-44a2-8cea-04b9b20c78d2)
 
 2. Clone the repository to your local machine.
@@ -49,6 +50,7 @@ git clone https://github.com/yourusername/Exploratory-data-analysis---online-sho
    RDS_DATABASE: 'your_database'
    RDS_USER: 'your_username'
    RDS_PASSWORD: 'your_password'
+```
 
 2. Run the script using the command:
 - `python db_utils.py`
