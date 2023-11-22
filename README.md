@@ -20,7 +20,7 @@ This project provides a comprehensive solution for managing customer data, analy
 1. Clone the repository from GitHub.
 - `git clone https://github.com/github8585/exploratory-data-analysis---online-shopping-in-retail.git`
 3. Ensure you have Python installed on your system.
-- `guide : https://realpython.com/installing-python/`
+- `https://realpython.com/installing-python/`
 4. Install the required packages.
 - `psycopg2`
 - `sqlalchemy`
