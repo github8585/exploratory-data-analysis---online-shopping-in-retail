@@ -36,9 +36,11 @@ Throughout this project, I learned about data cleaning techniques, working with 
 - `scipy`
 - `numpy`
 
+2. Then import the following libraries installed:
+
 ![image](https://github.com/github8585/exploratory-data-analysis---online-shopping-in-retail/assets/55400003/cbee06d6-ecdb-44a2-8cea-04b9b20c78d2)
 
-2. Clone the repository to your local machine.
+3. Clone the repository to your local machine.
 ```bash
 git clone https://github.com/yourusername/Exploratory-data-analysis---online-shopping-in-retail.git
 
@@ -56,6 +58,7 @@ git clone https://github.com/yourusername/Exploratory-data-analysis---online-sho
 - `python db_utils.py`
 
 3. The script will extract the data, apply transformations, visualize the data, and then save the transformed data to `customer_activity_transformed_corrected_skew.csv`.
+
 ![image](https://github.com/github8585/exploratory-data-analysis---online-shopping-in-retail/assets/55400003/470152b4-14e3-4481-b871-ae89862e8824)
 
 ### File Structure
