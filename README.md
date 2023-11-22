@@ -13,12 +13,40 @@ This project provides a comprehensive solution for managing customer data, analy
 
 ### Installation Instructions
 1. Clone the repository from GitHub.
-2. Ensure you have Python installed on your system.
-3. Install the required packages.
-4. Run the main application using `python db_utils.py`.
+``` bash
+git clone https://github.com/yourusername/online-shopping-analysis.git
+```
+
+2. Navigate to the project directory
+```bash
+cd online-shopping-analysis
+```
+
+3. Ensure you have Python installed on your system.
+```bash
+sudo apt-get install python3.12
+```
+
+4. Install the required packages.
+```bash
+pip install -r requirements.txt
+```
+
+5. Run the main application using `python db_utils.py`.
 
 ### Usage Instructions
 Navigate to the main dashboard to access the different modules. Each module has its own interface with relevant options for data input, analysis, and visualization.
+
+```python
+from customer_software import CustomerAnalysis
+
+# Initialize the analysis
+analysis = CustomerAnalysis('online_shopping_data.csv')
+
+# Get a summary of customer data
+customer_summary = analysis.get_customer_summary()
+print(customer_summary)
+```
 
 ### File Structure
 - `customer_software.py`: Contains functions related to customer management.
